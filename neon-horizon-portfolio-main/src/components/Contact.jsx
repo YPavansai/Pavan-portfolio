@@ -5,7 +5,7 @@ import emailjs from "@emailjs/browser";
 const socials = [
   {
     label: "GitHub",
-    href: "https://github.com/yourusername",
+    href: "https://github.com/YPavansai",
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
         <path d="M12 0c-6.626 0-12 5.373-12 12..." />
@@ -14,7 +14,7 @@ const socials = [
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/yourusername",
+    href: "https://www.linkedin.com/in/pavansai-ai/",
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
         <path d="M20.447 20.452h-3.554v-5.569..." />
